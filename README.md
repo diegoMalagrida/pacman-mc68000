@@ -3,6 +3,10 @@
 
 Este es un proyecto desarrollado para la asignatura **Estructura de Computadores II**, en el cual implementamos una versión del clásico **Pac-Man** utilizando el entorno de ensamblador **Easy68K**.
 
+## 🎥 Demo del Juego
+
+<video src="media/pac.mp4" controls width="600"></video>
+
 ## 🎮 Introducción y Manual de Uso
 
 El juego sigue la mecánica clásica de Pac-Man: moverse a través de un laberinto, comer puntos y evitar a los fantasmas. Se han añadido características únicas como **un modo de depuración y un sistema de puntuación**.
@@ -113,6 +117,7 @@ Este proyecto nos permitió profundizar en **ensamblador** y aplicar conocimient
 ## 📜 Autores
 - **[Diego Malagrida](https://github.com/diegoMalagrida)**
 - **[Andreu Massanet Felix](https://github.com/Azdrii)**
+
 
 
 
