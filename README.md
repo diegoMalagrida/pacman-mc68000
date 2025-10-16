@@ -111,8 +111,9 @@ Este proyecto nos permitió profundizar en **ensamblador** y aplicar conocimient
 ---
 
 ## 📜 Autores
-- **Diego Malagrida Gonzalez**
+- **[Diego Malagrida](https://github.com/diegoMalagrida)**
 - **[Andreu Massanet Felix](https://github.com/Azdrii)**
+
 
 
 
