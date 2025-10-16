@@ -5,8 +5,8 @@ Este es un proyecto desarrollado para la asignatura **Estructura de Computadores
 
 ## 🎥 Demo del Juego
 
-<video src="media/pac.mp4" controls width="600"></video>
-
+[<video src="media/pac.mp4" controls width="600"></video>
+](https://github.com/user-attachments/assets/ecb84285-bc10-492f-9e88-c98d55a8f4b3)
 ## 🎮 Introducción y Manual de Uso
 
 El juego sigue la mecánica clásica de Pac-Man: moverse a través de un laberinto, comer puntos y evitar a los fantasmas. Se han añadido características únicas como **un modo de depuración y un sistema de puntuación**.
@@ -117,6 +117,7 @@ Este proyecto nos permitió profundizar en **ensamblador** y aplicar conocimient
 ## 📜 Autores
 - **[Diego Malagrida](https://github.com/diegoMalagrida)**
 - **[Andreu Massanet Felix](https://github.com/Azdrii)**
+
 
 
 
