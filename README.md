@@ -29,4 +29,5 @@ To play the game just open MAIN.X68 from the EASy68K editor and run it.
 ## Authors
 
 - [Diego Malagrida González](https://github.com/diegoMalagrida)
-- [Andreu Massanet Felix](https://github.com/Azdrii)
+
+- [Andreu Massanet Felix](https://github.com/andreumassanet)
