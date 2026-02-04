@@ -24,10 +24,11 @@ If you want to play the game you need the EASy68K assembler and simulator availa
 
 To play the game just open MAIN.X68 from the EASy68K editor and run it.
 
-> To ensure the game runs correctly, both checkboxes in the Options tab of MAIN.S68 must be enabled: Enable Exceptions and Enable VBIT Field Instructions.
+> To ensure the game runs correctly, both checkboxes in the Options tab of MAIN.S68 must be enabled: Enable Exceptions and Enable BIT Field Instructions.
 
 ## Authors
 
 - [Diego Malagrida González](https://github.com/diegoMalagrida)
 
 - [Andreu Massanet Felix](https://github.com/andreumassanet)
+
