@@ -12,7 +12,7 @@ public class BitmapReader {
 
     public static void main(String[] args) {
         // Ruta del directorio donde están los archivos BMP
-        File folder = new File("SPRITES/EXPORTED"); // Cambia esta ruta por la de tu carpeta
+        File folder = new File("SPRITES/EXPORTED");
 
         // Verificar si la carpeta existe
         if (!folder.exists() || !folder.isDirectory()) {
